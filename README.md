@@ -7,7 +7,7 @@ This article addresses near-field localization using Reconfigurable Intelligent 
 ```
 └── /src
     ├── /results_generation     # Generate results for each plot
-    └── ⁄optimization_functions # Needed functions
+    └── /optimization_functions # Needed functions
 ```
 
 ## Basic Run
