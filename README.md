@@ -5,8 +5,8 @@ This article addresses near-field localization using Reconfigurable Intelligent 
 ## Folder structure
 
 ```
-├── /src
-│   ├── /results_generation     # Generate results for each plot
+└── /src
+    ├── /results_generation     # Generate results for each plot
     └── ⁄optimization_functions # Needed functions
 ```
 
